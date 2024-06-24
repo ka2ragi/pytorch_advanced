@@ -14,5 +14,4 @@
 - 『つくりながら学ぶ！PyTorchによる発展ディープラーニング』
 - 著者：小川雄太郎
 - 出版社：マイナビ出版
-- 書籍の詳細
-
+- [書籍の詳細](https://book.mynavi.jp/ec/products/detail/id=104855)
