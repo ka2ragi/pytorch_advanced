@@ -15,3 +15,6 @@
 - 著者：小川雄太郎
 - 出版社：マイナビ出版
 - [書籍の詳細](https://book.mynavi.jp/ec/products/detail/id=104855)
+
+## その他
+[著者のGitHubページ](https://github.com/YutaroOgawa/pytorch_advanced/tree/master)
